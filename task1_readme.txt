@@ -8,7 +8,7 @@ B. Scheduler should backup the MySQL or MongoDB database & upload it on Google D
 
 1. Take pull project code from Git
 
-2. Go inside project folder And run 'composer update' command to generate vendor folder in your project.
+2. Go inside project folder And run 'composer update' command to generate vendor folder in your project. Also rename .env.example with .env file.
 
 3. Go schema folder on root and import database organization_employee.sql in your phpmyadmin.
 
